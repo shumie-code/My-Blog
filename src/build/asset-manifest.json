@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shumie-code/Full-Stack-MERN-BLOGstatic/css/main.4a9d094a.chunk.css",
+    "main.js": "/shumie-code/Full-Stack-MERN-BLOGstatic/js/main.2b5efc95.chunk.js",
+    "main.js.map": "/shumie-code/Full-Stack-MERN-BLOGstatic/js/main.2b5efc95.chunk.js.map",
+    "runtime-main.js": "/shumie-code/Full-Stack-MERN-BLOGstatic/js/runtime-main.5ae25ff0.js",
+    "runtime-main.js.map": "/shumie-code/Full-Stack-MERN-BLOGstatic/js/runtime-main.5ae25ff0.js.map",
+    "static/js/2.d508b2ea.chunk.js": "/shumie-code/Full-Stack-MERN-BLOGstatic/js/2.d508b2ea.chunk.js",
+    "static/js/2.d508b2ea.chunk.js.map": "/shumie-code/Full-Stack-MERN-BLOGstatic/js/2.d508b2ea.chunk.js.map",
+    "index.html": "/shumie-code/Full-Stack-MERN-BLOGindex.html",
+    "precache-manifest.32d4f86bf0289e86892a24f2ae465f3b.js": "/shumie-code/Full-Stack-MERN-BLOGprecache-manifest.32d4f86bf0289e86892a24f2ae465f3b.js",
+    "service-worker.js": "/shumie-code/Full-Stack-MERN-BLOGservice-worker.js",
+    "static/css/main.4a9d094a.chunk.css.map": "/shumie-code/Full-Stack-MERN-BLOGstatic/css/main.4a9d094a.chunk.css.map",
+    "static/js/2.d508b2ea.chunk.js.LICENSE.txt": "/shumie-code/Full-Stack-MERN-BLOGstatic/js/2.d508b2ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ae25ff0.js",
+    "static/js/2.d508b2ea.chunk.js",
+    "static/css/main.4a9d094a.chunk.css",
+    "static/js/main.2b5efc95.chunk.js"
+  ]
+}
